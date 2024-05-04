@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj": {}
+    "C:\\Users\\bsc_com_16_20\\Desktop\\GraphicsAssignment\\GraphicsAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj": {
+    "C:\\Users\\bsc_com_16_20\\Desktop\\GraphicsAssignment\\GraphicsAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\bsc_com_16_20\\Desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
         "projectName": "GraphicsAssignment",
-        "projectPath": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
+        "projectPath": "C:\\Users\\bsc_com_16_20\\Desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
         "packagesPath": "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\obj\\",
+        "outputPath": "C:\\Users\\bsc_com_16_20\\Desktop\\GraphicsAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bsc_com_16_20\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
             "OpenTK": {
               "target": "Package",
               "version": "[4.8.2, )"
+            },
+            "StbImageSharp": {
+              "target": "Package",
+              "version": "[2.27.14, )"
             }
           },
           "imports": [

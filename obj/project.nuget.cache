@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NP/l8GB7+/b0m4QEDK7gvdCoERyIx0q6uAoQ3YH0L9Q06w48EZrVSH3Faxqok1xtuH/isRa8v6PXTzmM1WR6+g==",
+  "dgSpecHash": "a7wfNvMmV/XoeAhtqa20GgmwAS8gHGTnFZVbvLVnIGNrnTzjPOixAfalCCkV7CQTmCvsF4s36l7gxAa7J521hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
+  "projectFilePath": "C:\\Users\\bsc_com_16_20\\Desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\opentk\\4.8.2\\opentk.4.8.2.nupkg.sha512",
     "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\opentk.audio.openal\\4.8.2\\opentk.audio.openal.4.8.2.nupkg.sha512",
@@ -15,6 +15,7 @@
     "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\opentk.windowing.common\\4.8.2\\opentk.windowing.common.4.8.2.nupkg.sha512",
     "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\opentk.windowing.desktop\\4.8.2\\opentk.windowing.desktop.4.8.2.nupkg.sha512",
     "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.8.2\\opentk.windowing.graphicslibraryframework.4.8.2.nupkg.sha512",
+    "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\stbimagesharp\\2.27.14\\stbimagesharp.2.27.14.nupkg.sha512",
     "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
