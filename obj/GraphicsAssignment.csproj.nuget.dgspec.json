@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
+        "projectName": "GraphicsAssignment",
+        "projectPath": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\GraphicsAssignment.csproj",
+        "packagesPath": "C:\\Users\\bsc_com_16_20\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bsc_com_16_20\\desktop\\GraphicsAssignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bsc_com_16_20\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
